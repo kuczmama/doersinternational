@@ -1,0 +1,98 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+.flex {display: flex;}
+.flex-column {flex-direction: column;}
+.flex-row {flex-direction: row;}
+.flex-grow {flex-grow: 1;}
+.flex-nowrap { flex-wrap: nowrap;}
+
+.fw0 {font-weight: 0;}
+.fw1 {font-weight: 100;}
+.fw2 {font-weight: 200;}
+.fw3 {font-weight: 300;}
+.fw4 {font-weight: 400;}
+.fw5 {font-weight: 500;}
+.fw6 {font-weight: 600;}
+.fw7 {font-weight: 700;}
+.fw8 {font-weight: 800;}
+.fw9 {font-weight: 900;}
+
+
+.absolute {position: absolute;}
+.relative {position: relative;}
+
+.tc { text-align: center;}
+.dib { display: inline-block;}
+.db {display: block;}
+.di {display: inline; }
+.dt {display: table; }
+
+.br0 {border-radius: 0;}
+.br1 {border-radius: .25rem;}
+.br2 {border-radius: .5rem;}
+.br3 {border-radius: 1rem;}
+.br4 {border-radius: 2rem;}
+
+.pa0 {padding: 0;}
+.pa1 {padding: .25rem;}
+.pa2 {padding: .5rem;}
+.pa3 {padding: 1rem;}
+.pa4 {padding: 2rem;}
+
+.mr0 {margin-right: 0;}
+mr1 {margin-right: 1rem;}
+
+.w-100 { width: 100%;}
+.w-50 {width: 50%;}
+.w-33 {width: 33%;}
+.w-66 {width: 66%;}
+
+.h0 {height: 0;}
+.h1 {height: 1rem;}
+.h2 {height: 2rem;}
+.h3 {height: 4rem;}
+.h4 {height: 8rem;}
+.h5 {height: 16rem;}
+
+.h-100 {height: 100%;}
+
+.border-color--red {border-color: #ff0000;}
+.border-color--blue {border-color: #0000ff;}
+
+.white {color: #ffffff;}
+.black {color: #000000;}
+
+
+.ba {
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+}
+
+.bb {
+    border-style: solid;
+    border-bottom-width: 1px;
+}
+
+.bg--red {background-color: #ff0000;}
+.bg--white {background-color: #ffffff;}
+.bg--black {background-color: #000000;}
+.bg--light-gray {background-color: #cccccc;}
+
+.overflow-y-hide-show {overflow-y: scroll;}
