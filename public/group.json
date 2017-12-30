@@ -1,0 +1,80 @@
+{
+    "id": 23511266,
+    "name": "Doers International - English Learning Group",
+    "status": "active",
+    "link": "https://www.meetup.com/doers-international/",
+    "urlname": "doers-international",
+    "description": "<p>※英文の後に日本語による説明があります。 </p>\n<p>Want to do cool stuff?</p>\n<p>Want to improve your English?</p>\n<p>Want to make new international friends?</p>\n<p>If you answered “yes” to any of these questions, you should join Doers International.</p>\n<p>Most of the people who come to a Doers International event turn into repeaters. &nbsp;See what your missing out on.</p>\n<p>At Doers International we have fun events like English lessons, article discussions, language exchanges, parties, and more! &nbsp;Everything we do will give you the opportunity to meet new friends, network, and have fun.</p>\n<p>All our English lessons and article discussions are led by native English speakers. &nbsp;We will help you learn practical english phrases and useful vocabulary. &nbsp;We will also allow you to think about relevant topics in the world.</p>\n<p>At the parties we will have fun games like Jenga, Uno, and cards with people from countries all over the world. We will also bring some snacks and drinks for you to enjoy.</p>\n<p>Hope to see you at an event soon!</p>\n<p>楽しいことが好きですか？</p>\n<p>世界中に友達を作りたいですか？</p>\n<p>上記の質問にYes!と答えた方は、Doers Internationalのグループに参加しましょう！</p>\n<p>Doers Internationalのイベントに来た人のほとんどがリピーターになっています。このチャンスを逃すわけにはいかないでしょう。</p>\n<p>Doers Internationalでは、英語のレッスン、記事についてのディスカッション、ランゲージエクスチェンジ、パーティー等を開催しています。イベントを通じて、新しい友達やネットワークを作ることができる貴重な機会です。</p>\n<p>英語のレッスン及び記事のディスカッションは、ネイティブスピーカーにより実施され、便利な英語のフレーズや語彙等を学ぶことができます。また、世界中で起きている出来事を議論することを通じて、身近なものとして考えることができるでしょう。</p>\n<p>パーティでは、世界中から来た人々とお酒とスナックを片手に様々なロケーションでゲーム等をやります。</p>\n<p>私たちのイベントで会えるのを楽しみにしています！</p>\n<br>\n<br>",
+    "created": 1493639845000,
+    "city": "Tokyo",
+    "country": "JP",
+    "localized_country_name": "Japan",
+    "localized_location": "Tokyo, Japan",
+    "state": "",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 35.67,
+    "lon": 139.77,
+    "members": 306,
+    "organizer": {
+        "id": 154632522,
+        "name": "Mark K.",
+        "bio": "",
+        "photo": {
+            "id": 266532070,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/2/f/2/6/highres_266532070.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/2/f/2/6/member_266532070.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/2/f/2/6/thumb_266532070.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+        }
+    },
+    "who": "Doers",
+    "group_photo": {
+        "id": 463828108,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/6/d/c/c/highres_463828108.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/6/d/c/c/600_463828108.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/6/d/c/c/thumb_463828108.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+        "id": 460560378,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/1/7/a/highres_460560378.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/1/7/a/600_460560378.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/1/7/a/thumb_460560378.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "Asia/Tokyo",
+    "next_event": {
+        "id": "246149965",
+        "name": "【新宿】🇺🇸 Let's eat breakfast☕ and Learn English📚",
+        "yes_rsvp_count": 2,
+        "time": 1515538800000,
+        "utc_offset": 32400000
+    },
+    "category": {
+        "id": 16,
+        "name": "Language & Ethnic Identity",
+        "shortname": "language",
+        "sort_name": "Language & Ethnic Identity"
+    },
+    "meta_category": {
+        "id": 212,
+        "shortname": "language",
+        "name": "Language & Culture",
+        "sort_name": "Language & Culture",
+        "photo": {
+            "id": 450131939,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "category_ids": [
+            16
+        ]
+    }
+}
