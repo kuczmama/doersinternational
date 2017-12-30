@@ -13,7 +13,14 @@
         <%= render 'events' %>
     </div>
     <div class='w-66 dib h-100 ba border-color--blue h-100 flex-column'>
-        <%= render 'about' %>
+        <div class='w-100 flex'>
+            <div class='w-33 dib h-100 flex-column ba border-color--red'>
+                <%= render 'email_form' %>
+            </div>
+            <div class='w-66 dib h-100 flex-column ba border-color--red'>
+                <%= render 'about' %>
+            </div>
+        </flex>
     </div>
 </div>
 

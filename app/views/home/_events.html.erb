@@ -2,9 +2,7 @@
     <div>
         <h1 class='tc'>Upcoming Events</h1>
     </div>
-    <div>
-        <%= render 'event' %>
-        <%= render 'event' %>
-        <%= render 'event' %>
-    </div>
+    <%= @events.each do |event| %>
+        <%= render partial: 'event', :locals => {:event => event} %>
+    <% end %>
 </div>
