@@ -1,10 +1,11 @@
-<div>
-    <div class='tc fw8'>
-        <h1>
+<div class='w-100'>
+    <div class='bg--doers-green'>
+        <div class='tc fw8 f2 pt3'>
             About Us
-        </h1>
-    </div>
-    <div>
-        <%= @group["description"] %>
+        </div>
+
+        <div class='bg--white pa2 ma3 mb0'>
+            <%= @group["description"].html_safe %>
+        </div>
     </div>
 </div>

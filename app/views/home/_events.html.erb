@@ -2,11 +2,13 @@
     <div>
         <h1 class='tc'>Upcoming Events</h1>
     </div>
-    <% if @events.present? %>
-        <% @events.each do |event| %>
-            <%= render partial: 'event', :locals => {:event => event} %>
+    <div>
+        <% if @events.present? %>
+            <% @events.each do |event| %>
+                <%= render partial: 'event', :locals => {:event => event} %>
+            <% end %>
+        <% else %>
+            There are no upcoming events
         <% end %>
-    <% else %>
-        There are no upcoming events
-    <% end %>
+    </div>
 </div>

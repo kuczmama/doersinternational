@@ -1,27 +1,9 @@
-<div class='w-100 border-color--blue ba pa2 h-20 relative'>
-    <div>
-        <h1 class='pa0'>
-            Doers International
-        </h1>
-    </div>
-    <div>
-        English Learning Group
-    </div>
+<div class='w-100'>
+    <%= render 'header' %>
+    <%= render 'about' %>
+    <%= render 'email_form' %>
+    <%= render 'events' %>
 </div>
-<div class='flex h-80 relative'>
-    <div class='w-33 dib ba border-color--blue flex-column overflow-y-hide-show'>
-        <%= render 'events' %>
-    </div>
-    <div class='w-66 dib h-100 ba border-color--blue h-100 flex-column'>
-        <div class='w-100 flex'>
-            <div class='w-33 dib h-100 flex-column ba border-color--red'>
-                <%= render 'email_form' %>
-            </div>
-            <div class='w-66 dib h-100 flex-column ba border-color--red overflow-y-hide-show'>
-                <%= render 'about' %>
-            </div>
-        </flex>
-    </div>
-</div>
+
 
 
