@@ -1,8 +1,8 @@
-<div class='w-100'>
+<div class='w-100 bg--doers-blue'>
     <div>
-        <h1 class='tc'>Upcoming Events</h1>
+        <div class='f3 tc white'>Upcoming Events</h1>
     </div>
-    <div>
+    <div class='pa2 ma3 mb0'>
         <% if @events.present? %>
             <% @events.each do |event| %>
                 <%= render partial: 'event', :locals => {:event => event} %>

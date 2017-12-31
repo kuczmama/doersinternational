@@ -8,7 +8,11 @@
         <%= event["description"].html_safe %>
     </div>
     <div class='w-100'>
-        <div class='white bg--red pa2 tc fw7'>RSVP</div>
+        <a href="<%= event['event_url'] %>">
+            <div class='white bg--red pa2 tc fw7'>
+                    RSVP
+            </div>
+        </a>
     </div>
 </div>
 
